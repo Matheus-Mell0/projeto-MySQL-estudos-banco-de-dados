@@ -41,5 +41,5 @@ As tabelas estão relacionadas entre si por meio de **chaves primárias e estran
 ## Como Executar o Projeto
 
 1. Abra o MySQL Workbench
-2. Execute o arquivo `.sql` presente neste repositório
-3. O banco de dados se
+2. Execute o arquivo 'projetos-sql' presente neste repositório
+3. O banco de dados se chama relacionamentos
